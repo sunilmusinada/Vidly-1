@@ -1,4 +1,4 @@
-This is a sample React project
+This is a sample React project. For demo go to https://sunilmusinada.github.io/Vidly-1/ 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
