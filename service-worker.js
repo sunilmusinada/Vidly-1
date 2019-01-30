@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Vidly-1/precache-manifest.66afb1892efd1eb9be99bf0626139c41.js"
+  "/Vidly-1/precache-manifest.a3585593a936a637800194bad6ae48bf.js"
 );
 
 workbox.clientsClaim();

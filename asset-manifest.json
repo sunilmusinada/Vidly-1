@@ -1,7 +1,7 @@
 {
   "main.css": "/Vidly-1/static/css/main.c0458f96.chunk.css",
-  "main.js": "/Vidly-1/static/js/main.e3ad6004.chunk.js",
-  "main.js.map": "/Vidly-1/static/js/main.e3ad6004.chunk.js.map",
+  "main.js": "/Vidly-1/static/js/main.44dc7d58.chunk.js",
+  "main.js.map": "/Vidly-1/static/js/main.44dc7d58.chunk.js.map",
   "static/css/1.4d04194c.chunk.css": "/Vidly-1/static/css/1.4d04194c.chunk.css",
   "static/js/1.fdbd3119.chunk.js": "/Vidly-1/static/js/1.fdbd3119.chunk.js",
   "static/js/1.fdbd3119.chunk.js.map": "/Vidly-1/static/js/1.fdbd3119.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/css/main.c0458f96.chunk.css.map": "/Vidly-1/static/css/main.c0458f96.chunk.css.map",
   "static/css/1.4d04194c.chunk.css.map": "/Vidly-1/static/css/1.4d04194c.chunk.css.map",
   "index.html": "/Vidly-1/index.html",
-  "precache-manifest.66afb1892efd1eb9be99bf0626139c41.js": "/Vidly-1/precache-manifest.66afb1892efd1eb9be99bf0626139c41.js",
+  "precache-manifest.a3585593a936a637800194bad6ae48bf.js": "/Vidly-1/precache-manifest.a3585593a936a637800194bad6ae48bf.js",
   "service-worker.js": "/Vidly-1/service-worker.js"
 }

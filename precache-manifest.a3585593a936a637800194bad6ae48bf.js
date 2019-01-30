@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/Vidly-1/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "e3ad60042e15f03aa6c9",
+    "revision": "44dc7d58f1dcbb35ee4f",
     "url": "/Vidly-1/static/css/main.c0458f96.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/Vidly-1/static/js/runtime~main.6a30dcf8.js"
   },
   {
-    "revision": "e3ad60042e15f03aa6c9",
-    "url": "/Vidly-1/static/js/main.e3ad6004.chunk.js"
+    "revision": "44dc7d58f1dcbb35ee4f",
+    "url": "/Vidly-1/static/js/main.44dc7d58.chunk.js"
   },
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/Vidly-1/static/css/1.4d04194c.chunk.css"
   },
   {
-    "revision": "09d166683d475358c4a5833d168a2a93",
+    "revision": "7c958c9fd869a7d73199a3b62abe87e0",
     "url": "/Vidly-1/index.html"
   }
 ];
